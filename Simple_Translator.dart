@@ -1,4 +1,4 @@
 main() {
-  final words = {'casa': 'maison'};
-  print(words['casa']);
+  final words = {'casa': 'fromage'};
+  print(words['casa_is_now_fromage']);
 }
